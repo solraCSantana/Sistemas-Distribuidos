@@ -6,5 +6,5 @@
 - Aprender conceitos gerais de sistemas de software para processamento distribuído e as técnicas utilizadas para suas implementações em ambientes de multiprocessadores fracamente acoplados.
 
 ### Colaborador
-- Sona Eveningstar Jorge Candeu
-https://github.com/EveningstarSona/Sistemas-Distribuidos
+- Sona Eveningstar Jorge Candeu<br/>
+[https://github.com/EveningstarSona/Sistemas-Distribuidos](https://github.com/EveningstarSona/Sistemas-Distribuidos)
