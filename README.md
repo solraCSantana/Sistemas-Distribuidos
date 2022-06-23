@@ -7,3 +7,4 @@
 
 ### Colaborador
 - Sona Eveningstar Jorge Candeu
+https://github.com/EveningstarSona/Sistemas-Distribuidos
